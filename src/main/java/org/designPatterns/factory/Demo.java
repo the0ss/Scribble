@@ -18,5 +18,6 @@ public class Demo {
 
   static void runBusinessLogic() {
     factory.render();
+
   }
 }
